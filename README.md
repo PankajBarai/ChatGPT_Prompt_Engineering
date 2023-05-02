@@ -1,4 +1,6 @@
 # ChatGPT Prompt Engineering for Developers
+---Deeplearning.ai , By Andrew Ng---
+
 
 ChatGPT is a large language model trained by OpenAI based on the GPT-3.5 architecture, designed to generate human-like responses to text-based prompts. ChatGPT can be used for a variety of natural language processing (NLP) tasks, including summarization, translation, and question answering.
 
